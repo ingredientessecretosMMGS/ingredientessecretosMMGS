@@ -1,7 +1,7 @@
 # sobre nos
 
 murilo
-<img src="murilo.jpg" alt="Texto alternativo" title="murilo"width="640" height="480" />
+<img src="murilo.jpg" alt="Texto alternativo" title="murilo" width="300" height="300" />
 geovana
 sara
 marjory
