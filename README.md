@@ -3,6 +3,7 @@
 murilo
 <img src="murilo.jpeg" alt="Texto alternativo" title="murilo" width="300" height="300" />
 geovana
+<img src="geovana.jpeg" alt="Texto alternativo" title="geovana" width="300" height="300" />
 sara
 marjory
 
