@@ -1,6 +1,6 @@
 # sobre nos
 
-murilo tenho 16 anos meu hobby gosto de praticar esportes.
+murilo tenho 15 anos meu hobby gosto de praticar esportes.
 
 <img src="murilo.jpeg" alt="Texto alternativo" title="murilo" width="300" height="300" />
 geovana tem 15 anos gosta de praticar volei e amo cachorro.
